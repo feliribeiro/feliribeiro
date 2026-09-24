@@ -6,9 +6,9 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently buil
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently @ **RCI - Analytics Intelligence**, building a distributed ML classifier (SparkML) for automated fiscal classification at SEFAZ Amazonas, plus backend integrations for **gurIA**, the virtual assistant of the [rs.gov.br](https://rs.gov.br) portal
+- 🔭 Currently @ **RCI - Analytics Intelligence** Software Developer
 - 🏛️ Previously worked on API test automation and E2E testing for critical government systems (PROCERGS) and process automation with Python (Dell Technologies)
-- 🎓 B.Sc. in Software Engineering @ PUCRS (expected Dec/2028)
+- 🎓 B.Sc. in Software Engineering @ PUCRS
 - 🗣️ English (C1) · Portuguese (native, C2)
 - 📫 Reach me at **felipe.ribeiro05@outlook.com**
 
