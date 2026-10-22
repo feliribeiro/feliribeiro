@@ -9,7 +9,6 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently buil
 - 🔭 Currently @ **RCI - Analytics Intelligence** Software Developer
 - 🏛️ Previously worked on API test automation and E2E testing for critical government systems (PROCERGS) and process automation with Python (Dell Technologies)
 - 🎓 B.Sc. in Software Engineering @ PUCRS
-- 🗣️ English (C1) · Portuguese (native, C2)
 - 📫 Reach me at **felipe.ribeiro05@outlook.com**
 
 <br/>
