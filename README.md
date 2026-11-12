@@ -1,13 +1,13 @@
 # Hi there, I'm Felipe Ribeiro 👋
 
-Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently a Software Engineer Junior at NTT DATA Business Solutions after driving Machine Learning and AI automation projects at RCI - Analytics Intelligence. I love turning messy, high-volume data problems into reliable, well-tested software.
+Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently a Software Engineer Junior at NTT DATA.
 
 <br/>
 
 ## 👨‍💻 About Me
 
 - 🔭 Currently @ **NTT DATA Business Solutions** as a Software Engineer Junior
-- 🏛️ Previously Mid-Level Software Engineer @ **RCI - Analytics Intelligence**; API test automation & E2E testing for government systems (PROCERGS); process automation with Python (Dell Technologies)
+- 🏛️ Previously Software Engineer @ **RCI - Analytics Intelligence**; API test automation & E2E testing for government systems (PROCERGS); process automation with Python (Dell Technologies)
 - 🎓 B.Sc. in Software Engineering @ PUCRS
 - 📫 Reach me at **felipe.ribeiro05@outlook.com**
 
@@ -18,7 +18,7 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently a So
 Software Engineer Junior.
 
 **RCI - Analytics Intelligence** · *01/2026 – 10/2026*
-Promoted to Mid-Level Software Engineer; built a distributed Machine Learning solution (Apache SparkML) to classify hot beverages for fiscal purposes at SEFAZ Amazonas, and architected AI automation flows for **gurIA** with IBM Orchestrate, Watson Assistant, and Langflow.
+Built a distributed Machine Learning solution (Apache SparkML) to classify hot beverages for fiscal purposes at SEFAZ Amazonas, and architected AI automation flows for **gurIA** with IBM Orchestrate, Watson Assistant, and Langflow.
 
 **Dell Technologies** · *12/2025 – 01/2026*
 Developed Python automation scripts to streamline internal operational processes and identify infrastructure bottlenecks.
