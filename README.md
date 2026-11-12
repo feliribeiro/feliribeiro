@@ -6,7 +6,7 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently buil
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently @ **RCI - Analytics Intelligence** Software Developer
+- 🔭 Currently @ **NTT DATA Business Solutions** as a Software Engineer
 - 🏛️ Previously worked on API test automation and E2E testing for critical government systems (PROCERGS) and process automation with Python (Dell Technologies)
 - 🎓 B.Sc. in Software Engineering @ PUCRS
 - 📫 Reach me at **felipe.ribeiro05@outlook.com**
@@ -32,8 +32,8 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently buil
 
 ## 💼 Experience Highlights
 
-**RCI - Analytics Intelligence** · *01/2026 – Present*
-Built a distributed Machine Learning solution (SparkML) to classify hot beverages for fiscal purposes at SEFAZ Amazonas, and developed backend integrations & data persistence layers for **gurIA**.
+**NTT DATA Business Solutions** · *11/2026 – Present*
+Working as a Software Engineer.
 
 **Dell Technologies** · *12/2025 – 01/2026*
 Developed Python automation scripts to streamline internal operational processes and identify infrastructure bottlenecks.
