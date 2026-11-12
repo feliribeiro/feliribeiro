@@ -7,28 +7,9 @@ Software Engineering student at **PUCRS** (Porto Alegre, Brazil), currently buil
 ## 👨‍💻 About Me
 
 - 🔭 Currently @ **NTT DATA Business Solutions** as a Software Engineer
-- 🏛️ Previously worked on API test automation and E2E testing for critical government systems (PROCERGS) and process automation with Python (Dell Technologies)
 - 🎓 B.Sc. in Software Engineering @ PUCRS
 - 📫 Reach me at **felipe.ribeiro05@outlook.com**
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,python,js,ts,nodejs,react,nextjs,spring,django,fastapi,html,css,tailwind,postgres,mysql,mongodb,aws,docker,git,githubactions,gitlab" alt="Tech stack icons" />
-</p>
-
-| Category | Stack |
-|---|---|
-| **Languages** | Go, Java, Python, JavaScript, TypeScript, SQL |
-| **Backend** | Spring Boot, Node.js, Express, Django, FastAPI |
-| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind CSS |
-| **Databases & Cloud** | PostgreSQL, MySQL, MongoDB, Supabase (BaaS), AWS |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, GitLab CI, Scrum/Kanban |
-| **Quality & Testing** | Karate Framework, Cypress.io, Robot Framework |
-
-<br/>
 
 ## 💼 Experience Highlights
 
